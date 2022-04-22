@@ -51,12 +51,12 @@
 </div>
 <br/>
 
-## 🔥 Stats
-<div align="center">
+### Stats
+<div align="left">
   <a href="https://github.com/DUagreste">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DUagreste&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DUagreste&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <a href="https://github-readme-streak-stats.herokuapp.com">
-      <img height="150em" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DUagreste&theme=radical&hide_border=true"/>
+      <img height="150em" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DUagreste&theme=tokyonight&hide_border=true"/>
     </a>
 
 ##
