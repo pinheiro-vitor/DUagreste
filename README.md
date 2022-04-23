@@ -28,11 +28,11 @@
 <img align="right" height="350px" alt="GIF" src="https://i.imgur.com/DnRDhTu.gif" />
 
 ### About me
-- 🧐 I am currently looking to grow professionally and improve more and more.
+- 🧐 I'm currently looking for experience.
 - 🌱 I’m currently learning Python and more.
 - 🙏🏼 Dreaming of being a backend developer.
 - 🎈 Looking for help with data science/cloud computing.
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Ask me about anything, i'm kind, i swear.
 - 👾 Hobbies: watch series, movies and read fiction.
 - ⚡ Fun fact: i love anime/manga.
 
