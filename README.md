@@ -28,10 +28,9 @@
 <img align="right" height="350px" alt="GIF" src="https://i.imgur.com/DnRDhTu.gif" />
 
 ### About me
-- 🧐 Always looking to improve and grow professionally.
-- 💻 I'm currently working on a personal project: an API with Python and Flask.
+- 🧐 I am currently looking to grow professionally and improve more and more.
 - 🌱 I’m currently learning Python and more.
-- 🙏🏼 Dreaming of being a backend developer..
+- 🙏🏼 Dreaming of being a backend developer.
 - 🎈 Looking for help with data science/cloud computing.
 - 💬 Ask me about anything, I am happy to help.
 - 👾 Hobbies: watch series, movies and read fiction.
