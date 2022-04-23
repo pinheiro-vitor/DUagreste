@@ -59,9 +59,8 @@
       <img height="150em" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DUagreste&theme=tokyonight&hide_border=true"/>
     </a>
 
-    
-[![Spotify](https://novatorem-duagreste.vercel.app/api/spotify)](https://open.spotify.com/user/oczfz34gile3vatoge5mj3nlh)
-
+### Playing
+[![Spotify](https://novatorem-sage-zeta.vercel.app/api/spotify)](https://open.spotify.com/user/oczfz34gile3vatoge5mj3nlh)
 
 ##
 
