@@ -47,6 +47,8 @@
 [<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=whitee"/>]()
 [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>]()
+
 
 </div>
 <br/>
