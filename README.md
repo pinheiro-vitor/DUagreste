@@ -25,7 +25,7 @@
 
 <br>
 
-<img align="right" height="350px" alt="GIF" src="https://i.imgur.com/DnRDhTu.gif" />
+<img align="center" height="340px" alt="GIF" src="https://i.imgur.com/DnRDhTu.gif" />
 
 ### About me
 - 🧐 I'm currently looking for experience.
