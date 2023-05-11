@@ -24,9 +24,8 @@
 
 ### About me
 - 🧐 I'm currently looking for experience.
-- 🌱 I’m currently learning Python and more.
-- 🙏🏼 Dreaming of being a backend developer.
-- 🎈 Looking for help with data science/cloud computing.
+- 🌱 I’m currently learning a culture DevOps, Cloud and more.
+- 🙏🏼 Dream of having the first job in the tech career.
 - 💬 Ask me about anything, i'm kind, i swear.
 - 👾 Hobbies: watch series, movies and read fiction.
 - ⚡ Fun fact: i love anime/manga.
