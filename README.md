@@ -53,9 +53,6 @@
       <img height="150em" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DUagreste&theme=tokyonight&hide_border=true"/>
     </a>
 
-### Playing 
-[![Spotify](https://novatorem-rose-three.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/oczfz34gile3vatoge5mj3nlh)
-
 ##
 
 <p align="center">
