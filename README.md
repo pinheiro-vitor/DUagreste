@@ -18,11 +18,10 @@
 
 ### About me
 - 🧐 I'm currently looking for experience.
-- 🌱 I’m currently learning a culture DevOps, Cloud and more.
+- 🌱 I’m currently learning a culture DevOps, Cloud and PHP.
 - 🙏🏼 Dream of having the first job in the tech career.
 - 💬 Ask me about anything, i'm kind, i swear.
-- 👾 Hobbies: watch series, movies and read fiction.
-- ⚡ Fun fact: i love anime/manga.
+- 👾 Hobbies: watch series, animes, movies and read fiction.
 
 
 <br/>
