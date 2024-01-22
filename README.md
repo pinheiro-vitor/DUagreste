@@ -17,11 +17,11 @@
 <br>
 
 ### About me
-- 🧐 I'm currently looking for experience.
-- 🌱 I’m currently learning a culture DevOps, Cloud and PHP.
-- 🙏🏼 Dream of having the first job in the tech career.
-- 💬 Ask me about anything, i'm kind, i swear.
-- 👾 Hobbies: watch series, animes, movies and read fiction.
+- 🧐 I'm currently working with PHP (Laravel).
+- 🌱 Learning more about culture DevOps, Cloud and infrastructure.
+- 🙏🏼 I dream of growing in my tech career and working abroad.
+- 💬 Always trying to improve myself.
+- 👾 A technology enthusiast, gamer and geek.
 
 
 <br/>
