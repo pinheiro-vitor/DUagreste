@@ -45,17 +45,6 @@
 
 
 </div>
-<br/>
-
-### Stats
-<div align="left">
-  <a href="https://github.com/DUagreste">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DUagreste&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-      <img height="150em" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DUagreste&theme=tokyonight&hide_border=true"/>
-    </a>
-
-##
 
 <p align="center">
   <img height="275px" alt="GIF" src="https://camo.githubusercontent.com/d33f1b44585d9abf4536b3e10c763481ac3504a012cfaaef6e4d5b0fcec82843/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66352f35622f30662f66353562306633653064396238373865643931393262383335386664313438302e676966" />
