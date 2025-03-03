@@ -42,10 +42,3 @@
 [<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>]()
 
-
-
-</div>
-
-<p align="center">
-  <img height="275px" alt="GIF" src="https://camo.githubusercontent.com/d33f1b44585d9abf4536b3e10c763481ac3504a012cfaaef6e4d5b0fcec82843/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66352f35622f30662f66353562306633653064396238373865643931393262383335386664313438302e676966" />
-<p>  
